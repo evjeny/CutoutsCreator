@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CutoutsCreator</string>
+    <string name="bg_color">Цвет заднего фона</string>
+    <string name="f_count">Количество файлов</string>
+    <string name="i_q">Качество изображения</string>
+    <string name="p_count">Количество вершин</string>
+    <string name="s_t">Сохранить в</string>
+    <string name="sq_color">Цвет квадрата</string>
+    <string name="sq_size">Размер квадрата</string>
+    <string name="create">Создать</string>
+    <string name="preview">Предпросмотр</string>
+</resources>
